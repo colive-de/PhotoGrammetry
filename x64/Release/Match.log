@@ -1,0 +1,85 @@
+﻿  Match.cpp
+  correlationMatch.cpp
+E:\Photogrammetry\Match\Qt\include\QtCore\qtypeinfo.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Match.cpp”)
+  
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244: “参数”: 从“const _Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,49): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(42,29): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244: “参数”: 从“const _Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,49): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(41,29): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,40): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244: “参数”: 从“const _Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(47,26): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,40): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244: “参数”: 从“const _Tp”转换到“_Tp”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         with
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:             _Tp=float
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         and
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         [
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:             _Tp=int
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(46,26): warning C4244:         ]
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(74,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Photogrammetry\Match\Match\correlationMatch.cpp(118,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  11 of 950 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Match.vcxproj -> E:\Photogrammetry\Match\x64\Release\Match.exe
